@@ -16,6 +16,8 @@ Requires:
 
 -matplotlib==3.6.2
 
-You may simply use "pip install -r requirements.txt" but other packages including jupyterlab are included
+You may simply use "pip install -r requirements.txt" but other packages including jupyterlab are included.
+
 To get all the results, you can rerun everything, but all results are already saved in the notebook.
+
 All the plots are in the repository, or you may regenerate them.
