@@ -18,6 +18,8 @@ Requires:
 
 You may simply use "pip install -r requirements.txt" but other packages including jupyterlab are included.
 
-To get all the results, you can rerun everything, but all results are already saved in the notebook.
+Once requirements are downloaded, you can go to project2.ipynb to check the code. All results are already saved in the notebook, however if you would like you can choose to rerun everything.
 
-All the plots are in the repository, or you may regenerate them.
+All the plots have been saved in the repository, however you may regenerate them.
+
+The presentation that is used to explain the project to the class can be found here: https://docs.google.com/presentation/d/19TR2aCJPhm2e-6d0BnuiOdvLOPfN94dL/edit?usp=sharing&ouid=106334586602301813744&rtpof=true&sd=true 
